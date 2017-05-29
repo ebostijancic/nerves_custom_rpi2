@@ -1,4 +1,4 @@
-defmodule NervesSystemRpi2.Mixfile do
+defmodule NervesCustomRpi2.Mixfile do
   use Mix.Project
 
   @version Path.join(__DIR__, "VERSION")
